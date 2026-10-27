@@ -9,6 +9,8 @@ I build web products and AI prototypes, and I'm working towards a tech career in
 - **Security & testing:** web app testing with Burp Suite and Nmap · CRTOM & CCEP certified
 
 ### 🚀 Featured projects
+Personal demo projects I designed and built myself (not client work).
+
 | Project | What it does | Stack |
 |---|---|---|
 | 🔥 [IgnisGuard](https://github.com/perarasuboopathirajanm/IgnisGuard) | Fire, smoke & PPE (helmet / fire jacket) detection with an in-browser YOLO training studio | FastAPI · YOLO11 · YOLO-World |
