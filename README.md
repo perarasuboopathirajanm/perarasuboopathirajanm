@@ -9,7 +9,7 @@ I build web products and AI prototypes, and I'm working towards a tech career in
 - **Security & testing:** web app testing with Burp Suite and Nmap · CRTOM & CCEP certified
 
 ### 🚀 Featured projects
-Personal demo projects I designed and built myself (not client work).
+My own products, designed and built by me. Available for clients through White Whale.
 
 | Project | What it does | Stack |
 |---|---|---|
