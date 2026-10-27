@@ -8,10 +8,13 @@ I build web products and AI prototypes, and I'm working towards a tech career in
 - **AI prototypes:** built with AI-assisted development (fire safety detection, cleanliness monitoring, RAG Q&A, language translation)
 - **Security & testing:** web app testing with Burp Suite and Nmap · CRTOM & CCEP certified
 
-### 🚀 Featured project
-**SatQuery AI** (Smart India Hackathon 2026 prototype): ask questions about satellite images in plain English and see highlighted answers.
-React + Vite front end · FastAPI back end
-→ [Frontend + full app](https://github.com/perarasuboopathirajanm/SatQueryAI-frontend) · [Backend API](https://github.com/perarasuboopathirajanm/SatQueryAI-backend)
+### 🚀 Featured projects
+| Project | What it does | Stack |
+|---|---|---|
+| 🔥 [IgnisGuard](https://github.com/perarasuboopathirajanm/IgnisGuard) | Fire, smoke & PPE (helmet / fire jacket) detection with an in-browser YOLO training studio | FastAPI · YOLO11 · YOLO-World |
+| 📚 [ResearchAI-RAG](https://github.com/perarasuboopathirajanm/ResearchAI-RAG) | Private RAG research assistant: upload papers, get cited answers, runs locally | FastAPI · React · ChromaDB · Ollama |
+| 📸 [SnapFind-Studio](https://github.com/perarasuboopathirajanm/SnapFind-Studio) | Event photo delivery by face: scan a QR, take a selfie, get your photos | FastAPI · OpenCV |
+| 🛰️ [SatQuery AI](https://github.com/perarasuboopathirajanm/SatQueryAI-frontend) | Smart India Hackathon 2026 prototype: ask questions about satellite images ([backend](https://github.com/perarasuboopathirajanm/SatQueryAI-backend)) | React · Vite · FastAPI |
 
 ### 📚 Currently learning
 - Core Python (recursion, HTTP, authentication)
