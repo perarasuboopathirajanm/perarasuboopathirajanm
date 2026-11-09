@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/terminal.svg" alt="Animated terminal: whoami" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=perarasuboopathirajanm&color=7c5cff&style=flat-square&label=Profile+views" alt="profile views" />
   <img src="https://img.shields.io/github/followers/perarasuboopathirajanm?style=flat-square&color=22d3ee&label=Followers" alt="followers" />
   <img src="https://img.shields.io/badge/Graduating-2027-7c5cff?style=flat-square" alt="graduating 2027" />
@@ -80,6 +84,22 @@ My own products, designed and built by me. Available for clients through White W
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=perarasuboopathirajanm&bg_color=0b0d12&color=e8eaf0&line=7c5cff&point=22d3ee&area=true&area_color=7c5cff&hide_border=true" alt="activity graph" />
+</p>
+
+### 🐍 Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/perarasuboopathirajanm/perarasuboopathirajanm/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/perarasuboopathirajanm/perarasuboopathirajanm/output/github-snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/perarasuboopathirajanm/perarasuboopathirajanm/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+### 🏅 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=perarasuboopathirajanm&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
 </p>
 
 ### 📫 Let's connect
