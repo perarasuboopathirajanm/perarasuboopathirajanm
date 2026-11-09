@@ -59,6 +59,7 @@ My own products, designed and built by me. Available for clients through White W
 | 📸 [**SnapFind-Studio**](https://github.com/perarasuboopathirajanm/SnapFind-Studio) | Event photo delivery by face: scan a QR, take a selfie, get your photos | FastAPI · OpenCV |
 | 🛰️ [**SatQuery AI**](https://github.com/perarasuboopathirajanm/SatQueryAI-frontend) | Smart India Hackathon 2026 prototype: ask questions about satellite images ([backend](https://github.com/perarasuboopathirajanm/SatQueryAI-backend)) | React · Vite · FastAPI |
 | ✦ [**CaptionCraft**](https://github.com/perarasuboopathirajanm/ai-caption-generator) | Upload a photo and get ready-to-post captions and hashtags for Instagram, LinkedIn, X and Facebook ([live demo](https://perarasuboopathirajanm.github.io/ai-caption-generator/)) | JavaScript · Claude Vision |
+| ⛨ [**ShieldKit**](https://github.com/perarasuboopathirajanm/shieldkit) | Browser security toolkit: password audit + breach check, phishing URL analyzer, hash identifier, JWT inspector ([live demo](https://perarasuboopathirajanm.github.io/shieldkit/)) | JavaScript · Web Crypto · HIBP API |
 
 ### 🏆 Highlights
 
