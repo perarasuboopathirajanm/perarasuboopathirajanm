@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="330" viewBox="0 0 860 330" role="img" aria-label="Animated terminal introducing Perarasu Boopathirajan">
+<style>
+text{font-family:"JetBrains Mono","Fira Code",Consolas,"Courier New",monospace;font-size:15px}
+.p{fill:#39ff88;font-weight:700} .c{fill:#e8eaf0} .o{fill:#8fb7a3} .ok{fill:#22d3ee}
+.t{fill:#7f9a8c;font-size:12px}
+</style>
+<defs>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7c5cff"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<pattern id="scan" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity=".18"/></pattern>
+<clipPath id="c0"><rect x="24" y="60" width="0" height="26"><animate attributeName="width" from="0" to="118" begin="0.40s" dur="0.56s" fill="freeze" calcMode="discrete" values="26;35;44;53;62;71;80;89;98;107" keyTimes="0.0000;0.1111;0.2222;0.3333;0.4444;0.5556;0.6667;0.7778;0.8889;1.0000"/></rect></clipPath><clipPath id="c2"><rect x="24" y="120" width="0" height="26"><animate attributeName="width" from="0" to="190" begin="1.76s" dur="1.04s" fill="freeze" calcMode="discrete" values="26;35;44;53;62;71;80;89;98;107;116;125;134;143;152;161;170;179" keyTimes="0.0000;0.0588;0.1176;0.1765;0.2353;0.2941;0.3529;0.4118;0.4706;0.5294;0.5882;0.6471;0.7059;0.7647;0.8235;0.8824;0.9412;1.0000"/></rect></clipPath><clipPath id="c4"><rect x="24" y="180" width="0" height="26"><animate attributeName="width" from="0" to="280" begin="3.60s" dur="1.64s" fill="freeze" calcMode="discrete" values="26;35;44;53;62;71;80;89;98;107;116;125;134;143;152;161;170;179;188;197;206;215;224;233;242;251;260;269" keyTimes="0.0000;0.0370;0.0741;0.1111;0.1481;0.1852;0.2222;0.2593;0.2963;0.3333;0.3704;0.4074;0.4444;0.4815;0.5185;0.5556;0.5926;0.6296;0.6667;0.7037;0.7407;0.7778;0.8148;0.8519;0.8889;0.9259;0.9630;1.0000"/></rect></clipPath><clipPath id="c6"><rect x="24" y="240" width="0" height="26"><animate attributeName="width" from="0" to="226" begin="6.04s" dur="1.28s" fill="freeze" calcMode="discrete" values="26;35;44;53;62;71;80;89;98;107;116;125;134;143;152;161;170;179;188;197;206;215" keyTimes="0.0000;0.0476;0.0952;0.1429;0.1905;0.2381;0.2857;0.3333;0.3810;0.4286;0.4762;0.5238;0.5714;0.6190;0.6667;0.7143;0.7619;0.8095;0.8571;0.9048;0.9524;1.0000"/></rect></clipPath>
+</defs>
+<rect x="1" y="1" width="858" height="328" rx="14" fill="#0b0d12" stroke="url(#bd)" stroke-width="2"/>
+<rect x="2" y="2" width="856" height="34" rx="12" fill="#12151d"/>
+<circle cx="24" cy="19" r="6" fill="#ff5f57"/><circle cx="44" cy="19" r="6" fill="#febc2e"/><circle cx="64" cy="19" r="6" fill="#28c840"/>
+<text x="430.0" y="23" text-anchor="middle" class="t">perarasu@whitewhale: ~</text>
+<g clip-path="url(#c0)"><text x="28" y="78" class="p">$</text><text x="46" y="78" class="c">whoami</text></g>
+<text x="46" y="108" class="o" opacity="0">Perarasu Boopathirajan · B.E. CSE (IoT) · Class of 2027<animate attributeName="opacity" from="0" to="1" begin="1.21s" dur="0.3s" fill="freeze"/></text>
+<g clip-path="url(#c2)"><text x="28" y="138" class="p">$</text><text x="46" y="138" class="c">cat skills.txt</text></g>
+<text x="46" y="168" class="o" opacity="0">Web products · AI prototypes · Computer vision · Security testing<animate attributeName="opacity" from="0" to="1" begin="3.05s" dur="0.3s" fill="freeze"/></text>
+<g clip-path="url(#c4)"><text x="28" y="198" class="p">$</text><text x="46" y="198" class="c">./audit --certs --awards</text></g>
+<text x="46" y="228" class="ok" opacity="0">[✓] CRTOM   [✓] CCEP   [✓] 1st Prize · 11:11 Hackathon<animate attributeName="opacity" from="0" to="1" begin="5.49s" dur="0.3s" fill="freeze"/></text>
+<g clip-path="url(#c6)"><text x="28" y="258" class="p">$</text><text x="46" y="258" class="c">echo $NEXT_MISSION</text></g>
+<text x="46" y="288" class="o" opacity="0">Tech career in Japan 🇯🇵  ·  Open to freelance via White Whale 🐋<animate attributeName="opacity" from="0" to="1" begin="7.57s" dur="0.3s" fill="freeze"/></text>
+<text x="28" y="318" class="p" opacity="0">$<animate attributeName="opacity" from="0" to="1" begin="8.12s" dur="0.1s" fill="freeze"/></text>
+<rect x="46" y="303" width="9" height="18" fill="#39ff88" opacity="0"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.01;0.5;0.51;1" dur="1s" begin="8.12s" repeatCount="indefinite"/></rect>
+<rect x="2" y="36" width="856" height="292" fill="url(#scan)" pointer-events="none"/>
+</svg>
